@@ -1,0 +1,13 @@
+card = ("Maya", 9, "B")
+
+
+print("Student: ?")
+
+monday_list = ["Maths", "Science", "English", "Maths", "Art"]
+tuesday_list = ["Maths", "History", "English", "Music", "History"]
+
+monday = tuesday = set()
+print("Monday:", len(monday), sorted(monday))
+
+print("Monday:", sorted(monday))
+print("Tuesday:", sorted(tuesday))
